@@ -1,0 +1,23 @@
+{
+  "name": "user_app",
+  "version": "1.0.0",
+  "description": "Web Application to store and retrieve user details using react and node",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Umarali S",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "1.19.0",
+    "connect-flash": "^0.1.1",
+    "cookie-parser": "1.4.4",
+    "express": "^4.17.1",
+    "express-brute": "^1.0.1",
+    "express-fileupload": "^1.1.7-alpha.3",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.26.0",
+    "mysql": "2.17.1",
+    "request": "2.88.0"
+  }
+}
